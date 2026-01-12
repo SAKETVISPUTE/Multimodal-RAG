@@ -1,1 +1,2 @@
 # Multimodal-RAG
+Built a Retrieval-Augmented Generation (RAG) system to answer domain-specific queries by combining semantic retrieval with large language model reasoning. Implemented document chunking, vector embeddings, and similarity-based retrieval to ground responses in source data. Evaluated the system using accuracy, precision, recall, and F1-score, achieving consistently high relevance and correctness across test queries, while reducing hallucinations through citation-based response generation.
